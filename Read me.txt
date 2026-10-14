@@ -1,0 +1,2 @@
+Don't move MP3's to another place. it's only work at "Downloads". (English)
+MP3'leri "İndirilenler" yeri harici bir yere koyma, sadece İndirilenler bölümünde çalışır. (Turkish)
